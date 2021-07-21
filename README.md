@@ -4,7 +4,7 @@
 
 Hi I made this project during a 20-day Python workshop, conducted by <b> THE GIRL CODE </b>.
 
-I got to learn a lot from this workshop and it was an amazing experience learning with THE GIRL CODE and successfully created this game.
+I got to learn a lot from this workshop and it was an amazing experience learning with THE GIRL CODE and successfully created this shooting game.
 
 
 During these 20 days everything was explained from the very basics so that anyone with zero experience on programming can learn.
