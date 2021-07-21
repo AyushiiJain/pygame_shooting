@@ -12,7 +12,7 @@ During these 20 days everything was explained from the very basics so that anyon
 To know more about Build 2.0, visit:
 
 
-  <li><a href="https://thegirlcode.co/">thegirlcode</a>  
+  <li><a href="https://thegirlcode.co/">thegirlcode.co</a>  
 
   <li><a href="https://www.instagram.com/thegirlcode_co/">Instagram</a>  
 
